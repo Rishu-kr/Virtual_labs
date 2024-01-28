@@ -1,0 +1,41 @@
+.carousel__body {
+    width: 100%;
+    height: 100%;
+    mix-blend-mode: luminosity;
+    display: flex;
+    align-items: flex-end;
+}
+
+.carousel__body>.buttons {
+    display: flex;
+    margin: 0 89.85px 52.71px 0;
+}
+
+.carousel__body>.buttons>.breaker {
+    transform: rotate(90deg);
+    width: 60px;
+    background-color: #ffffff;
+    height: 4px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.imageIntro {
+    background: url("../../../public/Images/download.jpeg") !important;
+    background-size: contain !important;
+}
+
+.imageEdu {
+    background: url("../../../public/Images/images.jpeg") !important;
+    background-size: contain !important;
+}
+
+.imageRail {
+    background: url("../../../public/Images/equipment1.jpeg") !important;
+    background-size: cover !important;
+}
+
+.imageCong {
+    background: url("../../../public/Images/equipment2.jpeg") !important;
+    background-size: cover !important;
+}

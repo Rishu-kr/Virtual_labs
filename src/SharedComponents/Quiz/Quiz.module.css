@@ -1,0 +1,56 @@
+.quesno {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0 10px 10px;
+}
+
+.question {
+    display: flex;
+    font-style: normal;
+    font-size: 16px;
+    color: #323434;
+    line-height: 29px;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0 0 20px;
+}
+
+.optns {
+    display: flex;
+    margin: 2px 0;
+    align-items: center;
+    cursor: pointer;
+}
+
+.optns>input {
+    margin-right: 5px;
+}
+
+.linebreaker {
+    display: block;
+    width: 95%;
+    border: 1px dashed rgb(193, 193, 193);
+    height: 0;
+}
+
+.submit {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(140, 140, 140);
+    margin: 0 0 30px 30px;
+}
+
+.score {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.optns>img {
+    margin: 0 10px;
+    width: 15px;
+    height: 15px;
+}

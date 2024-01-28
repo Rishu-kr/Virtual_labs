@@ -1,0 +1,483 @@
+{
+    "data":[
+        {
+            "id":1,
+            "subject":"Heat Transfer",
+            "experiments":[
+                {
+                    "id":1,
+                    "name":"Heat Transfer in Natural Convection",
+                    "aim":[
+                        "to study the heat transfer phenomena in natural convection, and",
+                        "to determine heat transfer coefficient for vertical cylinder in natural convection"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[
+                                "Convection - It is the mechanism of heat transfer through a fluid in the presence of bulk fluid motion. It is classified as natural (or free) and forced convection. depending on how the fluid motion is initiated.",
+                                "Forced convection- the fluid is forced to flow over a surface or in a pipe by external means such as a pump or a fan.",
+                                "Natural convection, fluid motion is caused by natural means such as the buoyancy effect, which manifests itself as the rise of warmer fluid and the of the cooler fluid.",
+                                "The natural convection phenomenon is due to the temperature difference between surface and the fluid by natural means, i.e without any external agency. The setup is designed and fabricated to study the natural convection phenomenon from a vertical cylinder in terms of average heat transfer coefficient.",
+                                "The heat transfer coefficient is given by: "
+                            ],
+                            "formula1":[
+                                "h = {Q\\over {A*(Ts-Ta)}}"
+                            ],
+                            "th2":[
+                                "Nomenclature:",
+                                "A - Heat transfer area of cylindrical column (A), in m2",
+                                "D - Diameter of cylinder, m",
+                                "H - Heat transfer coefficient @c",
+                                "L - Length of cylinder, m",
+                                "Q - Amount of heat transfer,",
+                                "I - Ampere reading, amp",
+                                "V - Voltmeter reading, volts"
+                            ]
+                        }
+                    ],
+                    "experimentalSetup":[
+                        "The apparatus consists of a brass rube fitted in rectangular duct in a vertical fashion. The duct is open from the top and the bottom and forms an enclosure and serves the purpose of undisturbed surrounding. One side of it is made of glass/acrylic for visualization.",
+                        "A heating element is kept in vertical tube, which heats the tube surface. The heat is lost from the tube surface to the surrounding air by natural convection.",
+                        "Digital temperature indicator measures the temperature at different points with the help of seven temperature sensors. The heat input to the heater is measured by Digital Ammeter and Digital Voltmeter and can be varied by dimmerstat."
+                    ],
+                    "experimantalProcedure":[
+                        "First clean the apparatus and make it free from dust.",
+                        "Ensure that variac Knob position is at zero position given on the panel.",
+                        "Switch on the panel to the heater with the help of ON/OFF switch given on the panel.",
+                        "Fix the power input to the heater with the help of variac knob.",
+                        "After 30 minutes record the temperature of the test section at various points in each /5 minutes interval.",
+                        "If temperature readings are same for three times assume steady state is achieved",
+                        "Record the final temperature."
+                    ],
+                    "quiz":[
+                        {
+                            "id":1,
+                            "question":"Heaters and geysers are examples of which type of convection?",
+                            "options":[
+                                "natural convection",
+                                "forced convection",
+                                "both of these",
+                                "none of these"
+                            ],
+                            "correct":"both of these"
+                        },
+                        {
+                            "id":2,
+                            "question":"The factor on which the value of heat transfer coefficient depend on is?",
+                            "options":[
+                                "density",
+                                "viscosity",
+                                "thermal conductivity",
+                                "all of these"
+                            ],
+                            "correct":"all of these"
+                        },
+                        {
+                            "id":3,
+                            "question":"The transfer of thermal energy between the two systems is known as?",
+                            "options":[
+                                "heat transfer",
+                                "heat transportation",
+                                "thermal transfer",
+                                "none of these"
+                            ],
+                            "correct":"heat transfer"
+                        },
+                        {
+                            "id":4,
+                            "question":"Natural convection phenomenon is due to",
+                            "options":[
+                                "the temperature difference between surface and the fluid",
+                                "the natural hazzards",
+                                "conduction through surface and the fluid",
+                                "none of these"
+                            ],
+                            "correct":"the temperature difference between surface and the fluid"
+                        },
+                        {
+                            "id":5,
+                            "question":"Choose the correct option",
+                            "options":[
+                                "increasing the current directly increases the potential difference",
+                                "length of the cylinder is directly proportional to heat transfer coefficient",
+                                "length of the cylinder is inversely proportional to amount of heat transfer",
+                                "diameter of the cylinder is inversely proportional to heat transfer coefficient"
+                            ],
+                            "correct":"diameter of the cylinder is inversely proportional to heat transfer coefficient"
+                        },
+                        {
+                            "id":6,
+                            "question":"Optimum range for the power supply is recommended for",
+                            "options":[
+                                "0.18 - 2.30 Amperes",
+                                "180 - 230 Volts",
+                                "1.8 - 2.3 KW",
+                                "0.18 - 0.23 KW"
+                            ],
+                            "correct":"180 - 230 Volts"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Shell & Tube Heat Exchanger",
+                    "aim":[
+                        "To determine the rate of heat transfer,LMTD and overall heat transfer coefficient in shell and tube heat exchanger"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[],
+                            "formula1":[],
+                            "th2":[]
+                        }
+                    ],
+                    "experimentalSetup":[],
+                    "experimantalProcedure":[],
+                    "quiz":[
+                        {
+                            "id":"",
+                            "question":"",
+                            "options":[],
+                            "correct":""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":2,
+            "subject":"Mass Transfer",
+            "experiments":[
+                {
+                    "id":1,
+                    "name":"Heat Transfer in Natural Convection",
+                    "aim":[
+                        "to study the heat transfer phenomena in natural convection, and",
+                        "to determine heat transfer coefficient for vertical cylinder in natural convection"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[
+                                "Convection - It is the mechanism of heat transfer through a fluid in the presence of bulk fluid motion. It is classified as natural (or free) and forced convection. depending on how the fluid motion is initiated.",
+                                "Forced convection- the fluid is forced to flow over a surface or in a pipe by external means such as a pump or a fan.",
+                                "Natural convection, fluid motion is caused by natural means such as the buoyancy effect, which manifests itself as the rise of warmer fluid and the of the cooler fluid.",
+                                "The natural convection phenomenon is due to the temperature difference between surface and the fluid by natural means, i.e without any external agency. The setup is designed and fabricated to study the natural convection phenomenon from a vertical cylinder in terms of average heat transfer coefficient."
+                            ],
+                            "formula1":[
+                                "h = Q/(A*(Ts-Ta))"
+                            ],
+                            "th2":[
+                                "Nomenclature:",
+                                "A - Heat transfer area of cylindrical column (A), in m2",
+                                "D - Diameter of cylinder, m",
+                                "H - Heat transfer coefficient @c",
+                                "L - Length of cylinder, m",
+                                "Q - Amount of heat transfer,",
+                                "I - Ampere reading, amp",
+                                "V - Voltmeter reading, volts"
+                            ]
+                        }
+                    ],
+                    "experimentalSetup":[
+                        "The apparatus consists of a brass rube fitted in rectangular duct in a vertical fashion. The duct is open from the top and the bottom and forms an enclosure and serves the purpose of undisturbed surrounding. One side of it is made of glass/acrylic for visualization.",
+                        "A heating element is kept in vertical tube, which heats the tube surface. The heat is lost from the tube surface to the surrounding air by natural convection.",
+                        "Digital temperature indicator measures the temperature at different points with the help of seven temperature sensors. The heat input to the heater is measured by Digital Ammeter and Digital Voltmeter and can be varied by dimmerstat."
+                    ],
+                    "experimantalProcedure":[
+                        "First clean the apparatus and make it free from dust.",
+                        "Ensure that variac Knob position is at zero position given on the panel.",
+                        "Switch on the panel to the heater with the help of ON/OFF switch given on the panel.",
+                        "Fix the power input to the heater with the help of variac knob.",
+                        "After 30 minutes record the temperature of the test section at various points in each /5 minutes interval.",
+                        "If temperature readings are same for three times assume steady state is achieved",
+                        "Record the final temperature."
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Shell & Tube Heat Exchanger",
+                    "aim":[
+                        "To determine the rate of heat transfer,LMTD and overall heat transfer coefficient in shell and tube heat exchanger"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[],
+                            "formula1":[],
+                            "th2":[]
+                        }
+                    ],
+                    "experimentalSetup":[],
+                    "experimantalProcedure":[]
+                }
+            ]
+        },
+        {
+            "id":3,
+            "subject":"Chemical Reaction Engineering",
+            "experiments":[
+                {
+                    "id":1,
+                    "name":"Heat Transfer in Natural Convection",
+                    "aim":[
+                        "to study the heat transfer phenomena in natural convection, and",
+                        "to determine heat transfer coefficient for vertical cylinder in natural convection"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[
+                                "Convection - It is the mechanism of heat transfer through a fluid in the presence of bulk fluid motion. It is classified as natural (or free) and forced convection. depending on how the fluid motion is initiated.",
+                                "Forced convection- the fluid is forced to flow over a surface or in a pipe by external means such as a pump or a fan.",
+                                "Natural convection, fluid motion is caused by natural means such as the buoyancy effect, which manifests itself as the rise of warmer fluid and the of the cooler fluid.",
+                                "The natural convection phenomenon is due to the temperature difference between surface and the fluid by natural means, i.e without any external agency. The setup is designed and fabricated to study the natural convection phenomenon from a vertical cylinder in terms of average heat transfer coefficient."
+                            ],
+                            "formula1":[
+                                "h = Q/(A*(Ts-Ta))"
+                            ],
+                            "th2":[
+                                "Nomenclature:",
+                                "A - Heat transfer area of cylindrical column (A), in m2",
+                                "D - Diameter of cylinder, m",
+                                "H - Heat transfer coefficient @c",
+                                "L - Length of cylinder, m",
+                                "Q - Amount of heat transfer,",
+                                "I - Ampere reading, amp",
+                                "V - Voltmeter reading, volts"
+                            ]
+                        }
+                    ],
+                    "experimentalSetup":[
+                        "The apparatus consists of a brass rube fitted in rectangular duct in a vertical fashion. The duct is open from the top and the bottom and forms an enclosure and serves the purpose of undisturbed surrounding. One side of it is made of glass/acrylic for visualization.",
+                        "A heating element is kept in vertical tube, which heats the tube surface. The heat is lost from the tube surface to the surrounding air by natural convection.",
+                        "Digital temperature indicator measures the temperature at different points with the help of seven temperature sensors. The heat input to the heater is measured by Digital Ammeter and Digital Voltmeter and can be varied by dimmerstat."
+                    ],
+                    "experimantalProcedure":[
+                        "First clean the apparatus and make it free from dust.",
+                        "Ensure that variac Knob position is at zero position given on the panel.",
+                        "Switch on the panel to the heater with the help of ON/OFF switch given on the panel.",
+                        "Fix the power input to the heater with the help of variac knob.",
+                        "After 30 minutes record the temperature of the test section at various points in each /5 minutes interval.",
+                        "If temperature readings are same for three times assume steady state is achieved",
+                        "Record the final temperature."
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Shell & Tube Heat Exchanger",
+                    "aim":[
+                        "To determine the rate of heat transfer,LMTD and overall heat transfer coefficient in shell and tube heat exchanger"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[],
+                            "formula1":[],
+                            "th2":[]
+                        }
+                    ],
+                    "experimentalSetup":[],
+                    "experimantalProcedure":[]
+                }
+            ]
+        },
+        {
+            "id":4,
+            "subject":"Fluid Mechanics",
+            "experiments":[
+                {
+                    "id":1,
+                    "name":"Heat Transfer in Natural Convection",
+                    "aim":[
+                        "to study the heat transfer phenomena in natural convection, and",
+                        "to determine heat transfer coefficient for vertical cylinder in natural convection"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[
+                                "Convection - It is the mechanism of heat transfer through a fluid in the presence of bulk fluid motion. It is classified as natural (or free) and forced convection. depending on how the fluid motion is initiated.",
+                                "Forced convection- the fluid is forced to flow over a surface or in a pipe by external means such as a pump or a fan.",
+                                "Natural convection, fluid motion is caused by natural means such as the buoyancy effect, which manifests itself as the rise of warmer fluid and the of the cooler fluid.",
+                                "The natural convection phenomenon is due to the temperature difference between surface and the fluid by natural means, i.e without any external agency. The setup is designed and fabricated to study the natural convection phenomenon from a vertical cylinder in terms of average heat transfer coefficient."
+                            ],
+                            "formula1":[
+                                "h = Q/(A*(Ts-Ta))"
+                            ],
+                            "th2":[
+                                "Nomenclature:",
+                                "A - Heat transfer area of cylindrical column (A), in m2",
+                                "D - Diameter of cylinder, m",
+                                "H - Heat transfer coefficient @c",
+                                "L - Length of cylinder, m",
+                                "Q - Amount of heat transfer,",
+                                "I - Ampere reading, amp",
+                                "V - Voltmeter reading, volts"
+                            ]
+                        }
+                    ],
+                    "experimentalSetup":[
+                        "The apparatus consists of a brass rube fitted in rectangular duct in a vertical fashion. The duct is open from the top and the bottom and forms an enclosure and serves the purpose of undisturbed surrounding. One side of it is made of glass/acrylic for visualization.",
+                        "A heating element is kept in vertical tube, which heats the tube surface. The heat is lost from the tube surface to the surrounding air by natural convection.",
+                        "Digital temperature indicator measures the temperature at different points with the help of seven temperature sensors. The heat input to the heater is measured by Digital Ammeter and Digital Voltmeter and can be varied by dimmerstat."
+                    ],
+                    "experimantalProcedure":[
+                        "First clean the apparatus and make it free from dust.",
+                        "Ensure that variac Knob position is at zero position given on the panel.",
+                        "Switch on the panel to the heater with the help of ON/OFF switch given on the panel.",
+                        "Fix the power input to the heater with the help of variac knob.",
+                        "After 30 minutes record the temperature of the test section at various points in each /5 minutes interval.",
+                        "If temperature readings are same for three times assume steady state is achieved",
+                        "Record the final temperature."
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Shell & Tube Heat Exchanger",
+                    "aim":[
+                        "To determine the rate of heat transfer,LMTD and overall heat transfer coefficient in shell and tube heat exchanger"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[],
+                            "formula1":[],
+                            "th2":[]
+                        }
+                    ],
+                    "experimentalSetup":[],
+                    "experimantalProcedure":[]
+                }
+            ]
+        },
+        {
+            "id":5,
+            "subject":"Mechanical Operations",
+            "experiments":[
+                {
+                    "id":1,
+                    "name":"Heat Transfer in Natural Convection",
+                    "aim":[
+                        "to study the heat transfer phenomena in natural convection, and",
+                        "to determine heat transfer coefficient for vertical cylinder in natural convection"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[
+                                "Convection - It is the mechanism of heat transfer through a fluid in the presence of bulk fluid motion. It is classified as natural (or free) and forced convection. depending on how the fluid motion is initiated.",
+                                "Forced convection- the fluid is forced to flow over a surface or in a pipe by external means such as a pump or a fan.",
+                                "Natural convection, fluid motion is caused by natural means such as the buoyancy effect, which manifests itself as the rise of warmer fluid and the of the cooler fluid.",
+                                "The natural convection phenomenon is due to the temperature difference between surface and the fluid by natural means, i.e without any external agency. The setup is designed and fabricated to study the natural convection phenomenon from a vertical cylinder in terms of average heat transfer coefficient."
+                            ],
+                            "formula1":[
+                                "h = Q/(A*(Ts-Ta))"
+                            ],
+                            "th2":[
+                                "Nomenclature:",
+                                "A - Heat transfer area of cylindrical column (A), in m2",
+                                "D - Diameter of cylinder, m",
+                                "H - Heat transfer coefficient @c",
+                                "L - Length of cylinder, m",
+                                "Q - Amount of heat transfer,",
+                                "I - Ampere reading, amp",
+                                "V - Voltmeter reading, volts"
+                            ]
+                        }
+                    ],
+                    "experimentalSetup":[
+                        "The apparatus consists of a brass rube fitted in rectangular duct in a vertical fashion. The duct is open from the top and the bottom and forms an enclosure and serves the purpose of undisturbed surrounding. One side of it is made of glass/acrylic for visualization.",
+                        "A heating element is kept in vertical tube, which heats the tube surface. The heat is lost from the tube surface to the surrounding air by natural convection.",
+                        "Digital temperature indicator measures the temperature at different points with the help of seven temperature sensors. The heat input to the heater is measured by Digital Ammeter and Digital Voltmeter and can be varied by dimmerstat."
+                    ],
+                    "experimantalProcedure":[
+                        "First clean the apparatus and make it free from dust.",
+                        "Ensure that variac Knob position is at zero position given on the panel.",
+                        "Switch on the panel to the heater with the help of ON/OFF switch given on the panel.",
+                        "Fix the power input to the heater with the help of variac knob.",
+                        "After 30 minutes record the temperature of the test section at various points in each /5 minutes interval.",
+                        "If temperature readings are same for three times assume steady state is achieved",
+                        "Record the final temperature."
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Shell & Tube Heat Exchanger",
+                    "aim":[
+                        "To determine the rate of heat transfer,LMTD and overall heat transfer coefficient in shell and tube heat exchanger"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[],
+                            "formula1":[],
+                            "th2":[]
+                        }
+                    ],
+                    "experimentalSetup":[],
+                    "experimantalProcedure":[]
+                }
+            ]
+        },
+        {
+            "id":6,
+            "subject":"Process Dynamics & Control",
+            "experiments":[
+                {
+                    "id":1,
+                    "name":"Heat Transfer in Natural Convection",
+                    "aim":[
+                        "to study the heat transfer phenomena in natural convection, and",
+                        "to determine heat transfer coefficient for vertical cylinder in natural convection"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[
+                                "Convection - It is the mechanism of heat transfer through a fluid in the presence of bulk fluid motion. It is classified as natural (or free) and forced convection. depending on how the fluid motion is initiated.",
+                                "Forced convection- the fluid is forced to flow over a surface or in a pipe by external means such as a pump or a fan.",
+                                "Natural convection, fluid motion is caused by natural means such as the buoyancy effect, which manifests itself as the rise of warmer fluid and the of the cooler fluid.",
+                                "The natural convection phenomenon is due to the temperature difference between surface and the fluid by natural means, i.e without any external agency. The setup is designed and fabricated to study the natural convection phenomenon from a vertical cylinder in terms of average heat transfer coefficient."
+                            ],
+                            "formula1":[
+                                "h = Q/(A*(Ts-Ta))"
+                            ],
+                            "th2":[
+                                "Nomenclature:",
+                                "A - Heat transfer area of cylindrical column (A), in m2",
+                                "D - Diameter of cylinder, m",
+                                "H - Heat transfer coefficient @c",
+                                "L - Length of cylinder, m",
+                                "Q - Amount of heat transfer,",
+                                "I - Ampere reading, amp",
+                                "V - Voltmeter reading, volts"
+                            ]
+                        }
+                    ],
+                    "experimentalSetup":[
+                        "The apparatus consists of a brass rube fitted in rectangular duct in a vertical fashion. The duct is open from the top and the bottom and forms an enclosure and serves the purpose of undisturbed surrounding. One side of it is made of glass/acrylic for visualization.",
+                        "A heating element is kept in vertical tube, which heats the tube surface. The heat is lost from the tube surface to the surrounding air by natural convection.",
+                        "Digital temperature indicator measures the temperature at different points with the help of seven temperature sensors. The heat input to the heater is measured by Digital Ammeter and Digital Voltmeter and can be varied by dimmerstat."
+                    ],
+                    "experimantalProcedure":[
+                        "First clean the apparatus and make it free from dust.",
+                        "Ensure that variac Knob position is at zero position given on the panel.",
+                        "Switch on the panel to the heater with the help of ON/OFF switch given on the panel.",
+                        "Fix the power input to the heater with the help of variac knob.",
+                        "After 30 minutes record the temperature of the test section at various points in each /5 minutes interval.",
+                        "If temperature readings are same for three times assume steady state is achieved",
+                        "Record the final temperature."
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Shell & Tube Heat Exchanger",
+                    "aim":[
+                        "To determine the rate of heat transfer,LMTD and overall heat transfer coefficient in shell and tube heat exchanger"
+                    ],
+                    "theory":[
+                        {
+                            "th1":[],
+                            "formula1":[],
+                            "th2":[]
+                        }
+                    ],
+                    "experimentalSetup":[],
+                    "experimantalProcedure":[]
+                }
+            ]
+        }
+    ]
+}

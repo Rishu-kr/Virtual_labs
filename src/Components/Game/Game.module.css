@@ -1,0 +1,135 @@
+.slider {
+    position: relative;
+    margin: 20px 0;
+    transition: all 0.1s linear;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Abubble,
+.Vbubble,
+.Tbubble {
+    margin: 10px 0;
+}
+
+.game {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.heading {
+    margin-bottom: 30px;
+}
+
+.dataIntake {
+    min-width: 200px;
+    padding: 30px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gameView {
+    background-color: rgb(247, 247, 247);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gameV {
+    width: 70%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Head {
+    font-family: 'Poppins';
+    color: rgb(40, 40, 40);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.border {
+    position: absolute;
+    height: 0px;
+    width: 70px;
+    border: 1px solid rgb(83, 83, 83);
+    order: 1;
+    flex-grow: 0;
+}
+
+input[type="range" i] {
+    height: 3px;
+    color: #ECF9FF;
+    transform: scale(0.8);
+    transition: all 0.1s linear;
+}
+
+.btn {
+    width: max-content;
+    background: #daeaf1;
+    box-shadow: -4px 4px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    border: none;
+    font-family: 'Helvetica';
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 14px;
+    color: rgb(62, 62, 62);
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 30px 0;
+}
+
+.FullScreen {
+    width: fit-content;
+    background: #daeaf1;
+    box-shadow: -4px 4px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    border: none;
+    font-family: 'Helvetica';
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 14px;
+    color: rgb(62, 62, 62);
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 30px 0;
+}
+
+.instructions {
+    width: 85%;
+    margin-top: 20px;
+}
+
+.InsHead {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+
+    color: #586060;
+}
+
+.instructions>ul>li {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+}
